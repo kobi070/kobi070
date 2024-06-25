@@ -30,7 +30,7 @@ When I'm not immersed in the digital realm, I love to get outdoors and challenge
 
 I take great pride in my work and have contributed to a variety of projects that demonstrate my technical skills and creativity. Here are some highlights:
 
-1. [Chat App] - (https://github.com/kobi070/ChatApp): ChatApp is a real-time messaging application that allows users to communicate with each other over the internet. It is built using modern web technologies, including Node.js, Express, and Socket.io.
+1. [Chat App - Real Time Chat App](https://github.com/kobi070/ChatApp): ChatApp is a real-time messaging application that allows users to communicate with each other over the internet. It is built using modern web technologies, including Node.js, Express, and Socket.io.
 
 2. [Weather App - single page Weather App](https://kobi070.github.io/WeatherApp/):  WeatherApp is a web application that provides up-to-date weather information for a user's location. It is built using modern web technologies, including React, Node.js,
 
