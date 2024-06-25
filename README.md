@@ -32,7 +32,7 @@ I take great pride in my work and have contributed to a variety of projects that
 
 1. [Chat App](https://github.com/kobi070/ChatApp): ChatApp is a real-time messaging application that allows users to communicate with each other over the internet. It is built using modern web technologies, including Node.js, Express, and Socket.io.
 
-2. [Weather App - single page Weather App](https://kobi070.github.com/WeatherApp):  WeatherApp is a web application that provides up-to-date weather information for a user's location. It is built using modern web technologies, including React, Node.js,
+2. [Weather App - single page Weather App](https://kobi070.github.io/WeatherApp/):  WeatherApp is a web application that provides up-to-date weather information for a user's location. It is built using modern web technologies, including React, Node.js,
 
 3. [StoreApp - Store Application](https://github.com/YarinShelek/Android2_Project): This project consists of a React Native app with Expo, axios, Paper.js, and React Native. Along with an Express server using Node.js, axios, bcrypt, cors, dotenv, jsonwebtoken, express-session, nodemon, and MongoDB.
 ## Let's Connect! 🤝
