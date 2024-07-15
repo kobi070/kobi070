@@ -35,6 +35,8 @@ I take great pride in my work and have contributed to a variety of projects that
 2. [Weather App - single page Weather App](https://kobi070.github.io/WeatherApp/):  WeatherApp is a web application that provides up-to-date weather information for a user's location. It is built using modern web technologies, including React, Node.js,
 
 3. [StoreApp - Store Application](https://github.com/YarinShelek/Android2_Project): This project consists of a React Native app with Expo, axios, Paper.js, and React Native. Along with an Express server using Node.js, axios, bcrypt, cors, dotenv, jsonwebtoken, express-session, nodemon, and MongoDB.
+
+4. [3DPortfollio - Multipage webapp](https://kobi070.github.io/Protfolio3D): A dynamic 3D portfolio showcasing interactive models built with React and Three.js.
 ## Let's Connect! 🤝
 
 I'm always open to collaborating on new projects, discussing the latest gaming trends, or exchanging snowboarding and rock climbing tips. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/kobi-kuzi/) or [Email](mailto:kobi070@gmail.com). Let's create some amazing experiences together! 🚀
