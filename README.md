@@ -32,7 +32,7 @@ I take great pride in my work and have contributed to a variety of projects that
 
 1. [Chat App - Real Time Chat App](https://kobi070.github.io/ChatApp/): ChatApp is a real-time messaging application that allows users to communicate with each other over the internet. It is built using modern web technologies, including Node.js, Express, and Socket.io.
 
-2. [Weather App - single page Weather App](https://kobi070.github.io/WeatherApp/):  WeatherApp is a web application that provides up-to-date weather information for a user's location. It is built using modern web technologies, including React, Node.js,
+2. [RecipeRash - NextJS Recipes App ](https://recipe-rush-6lopg4j0y-kobi-kuzis-projects.vercel.app/):  RecipeRush is a dynamic platform built with Next.js 14, designed for sharing and discovering delicious recipes. Whether you're a home cook or a professional chef, RecipeRush provides an easy-to-use interface for posting your favorite recipes, exploring new culinary ideas, and connecting with a community of food enthusiasts
 
 3. [StoreApp - Store Application](https://github.com/YarinShelek/Android2_Project): This project consists of a React Native app with Expo, axios, Paper.js, and React Native. Along with an Express server using Node.js, axios, bcrypt, cors, dotenv, jsonwebtoken, express-session, nodemon, and MongoDB.
 
