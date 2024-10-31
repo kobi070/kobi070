@@ -6,11 +6,11 @@ I'm a highly skilled and motivated Fullstack Developer who loves to create inter
 
 ## Skills and Technologies 💻
 
-- Frontend: React, React Native, HTML5, CSS3, JavaScript, jQuery
-- Backend: Node.js, Express, MongoDB, Firebase, C# .NET, Python
-- Database: MongoDB, Firebase Realtime Database
+- Frontend: React, React Native, HTML5, CSS3, JavaScript, jQuery, Java, Kotlin, Next
+- Backend: Node.js, Express, MongoDB, Firebase, C# .NET, Python, C++, C, Next
+- Database: MongoDB, Firebase Realtime Database, MySQL
 - Communication: Socket.IO, Mediasoup
-- UI/UX: Material-UI, Bootstrap, React Native Paper
+- UI/UX: Material-UI, Bootstrap, React Native Paper, Next
 - Version Control: Git, GitHub
 - Deployment: GCP, Azure, AWS
 - Testing: Jest
@@ -37,6 +37,10 @@ I take great pride in my work and have contributed to a variety of projects that
 3. [StoreApp - Store Application](https://github.com/YarinShelek/Android2_Project): This project consists of a React Native app with Expo, axios, Paper.js, and React Native. Along with an Express server using Node.js, axios, bcrypt, cors, dotenv, jsonwebtoken, express-session, nodemon, and MongoDB.
 
 4. [3DPortfollio - Multipage webapp](https://kobi070.github.io/Protfolio3D): A dynamic 3D portfolio showcasing interactive models built with React and Three.js.
+   
+5. [RecipeRush - NextJs 14 App](https://github.com/kobi070/RecipeRush): RecipeRush is a dynamic platform built with Next.js 14, designed for sharing and discovering delicious recipes
+
+6. [Contacts](https://github.com/kobi070/Assignment-ES): Android Java App for Contact info.
 ## Let's Connect! 🤝
 
 I'm always open to collaborating on new projects, discussing the latest gaming trends, or exchanging snowboarding and rock climbing tips. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/kobi-kuzi/) or [Email](mailto:kobi070@gmail.com). Let's create some amazing experiences together! 🚀
