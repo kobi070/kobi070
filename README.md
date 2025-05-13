@@ -43,7 +43,13 @@ Thanks for checking out my profile! Don't forget to star ⭐️ my repositories 
 
 
 ### :fire: My Stats : 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobi070&show_icons=true&theme=dracula)
+<div align=center>
+   <image src="https://github-readme-stats.vercel.app/api?username=kobi070&show_icons=true&theme=dracula"></image>
+   <image src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kobi070&theme=dracula"></image>
+   <image src="https://ghchart.rshah.org/kobi070"></image>
+</div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobi070&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+   <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobi070&layout=compact&theme=dracula"></image>
+</div>
