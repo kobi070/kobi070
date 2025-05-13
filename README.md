@@ -5,6 +5,7 @@
 I'm a highly skilled and motivated Fullstack Developer who loves to create interactive and engaging web applications. With a solid foundation in both frontend and backend technologies, I am constantly pushing the boundaries of what's possible in the digital world.
 
 ## Skills and Technologies 💻
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,jquery,java,kotlin,nextjs,nodejs,express,mongodb,firebase,dotnet,python,cpp,c,kubernetes,mysql,bootstrap,materialui,git,github,nginx,gcp,azure,aws,jest,jenkins,docker,terraform&,kubernetes,grafanaperline=10)](https://skillicons.dev)
 
 - Frontend: React, React Native, HTML5, CSS3, JavaScript, jQuery, Java, Kotlin, Next
 - Backend: Node.js, Express, MongoDB, Firebase, C# .NET, Python, C++, C, Next
