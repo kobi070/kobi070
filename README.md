@@ -43,6 +43,7 @@ Thanks for checking out my profile! Don't forget to star ⭐️ my repositories 
 
 
 ### :fire: My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobi070&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobi070&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kobi070&theme=dracula)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobi070&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobi070&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
