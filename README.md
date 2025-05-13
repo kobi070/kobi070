@@ -42,14 +42,18 @@ Thanks for checking out my profile! Don't forget to star ⭐️ my repositories 
 
 
 
-### :fire: My Stats : 
+## :fire: My Stats : 
 <div align=center>
    <image src="https://github-readme-stats.vercel.app/api?username=kobi070&show_icons=true&theme=dracula"></image>
+</div>
+<br></br>
+<div align=center>
    <image src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kobi070&theme=dracula"></image>
+   <br></br>
    <image src="https://ghchart.rshah.org/kobi070"></image>
 </div>
-
----
+<br></br>
 <div align=center>
    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobi070&layout=compact&theme=dracula"></image>
 </div>
+<br></br>
